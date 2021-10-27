@@ -1,0 +1,1 @@
+print("GNU_ICT")
